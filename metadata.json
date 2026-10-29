@@ -1,0 +1,6 @@
+{
+  "name": "Aperture & Appetite - Virtual Food Photographer",
+  "description": "AI-powered commercial food photography studio for restaurants. Upload text menus, generate realistic 1K/2K/4K culinary shots with Rustic/Dark, Bright/Modern, and Social Media aesthetics, and edit with prompt-based styling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
